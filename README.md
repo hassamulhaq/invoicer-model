@@ -1,2 +1,2 @@
-# invoicer-model
+# Invoicer model
 Open Source Invoicing Solution
